@@ -1,4 +1,4 @@
-# Halo guys!
+# Welcome!
 
 Perkenalkan nama saya **Alifia Mustika Sari**.
 Saya seorang **Murid** di [Dicoding](https://www.dicoding.com/).
