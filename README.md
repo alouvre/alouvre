@@ -1,9 +1,9 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alouvre&label=Profile%20views&color=0e75b6&style=flat" alt="alouvre" /> </p>
+
 <h1 align="center">Hi there, I'm Alifia Mustika Sari</h1>
 <p align="center">
 Hi, My name is Alifia Mustika Sari. I am a Computer Science graduate from PGRI Madiun University (GPA 3.81) with a strong interest in developing solutions based on Artificial Intelligence (AI), Natural Language Processing (NLP), and Data Science.
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alouvre&label=Profile%20views&color=0e75b6&style=flat" alt="alouvre" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
