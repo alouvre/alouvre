@@ -37,5 +37,6 @@ Hi, My name is Alifia Mustika Sari. I am a Computer Science graduate from PGRI M
 <br>
 <h1>
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/alouvre/alouvre/output/snake.svg" alt="Snake animation" />
-
+</div>
