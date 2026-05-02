@@ -27,21 +27,28 @@
 <br>
 <h1>
 
-<h3 align="center">My Tech Stacks</h3>
-<div align="center">
-  <!-- Mobile & App Development -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <!-- Data Science & AI -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <!-- DevOps & Tools -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <!-- UI/UX -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
+<h3>🌿 What I'm Building Toward</h3>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🌱 Direction</strong>
+      <ul>
+        <li>Intelligent applications that connect data, models, and user needs</li>
+        <li>Data analysis workflows that turn raw information into dashboards, insights, and better business decisions</li>
+        <li>Model deployment practices that make AI usable beyond experiments</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <strong>🔭 Current Focus</strong>
+      <ul>
+        <li>Data analysis, dashboarding, and insight generation for business problems</li>
+        <li>Machine learning, data science, and AI system design</li>
+        <li>Backend APIs, cloud, monitoring, and reliable production deployment</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br>
 <h1>
