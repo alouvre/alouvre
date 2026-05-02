@@ -7,6 +7,13 @@ Hi, My name is Alifia Mustika Sari. I am a Computer Science graduate from PGRI M
 
 <br>
 
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-zickrian.dev-6B8E6E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=3F4F44" alt="Portfolio" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-Contact-D9897E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3F4F44" alt="Email" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2E3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3F4F44" alt="LinkedIn" /></a>
+  <a href="https://base.org"><img src="https://img.shields.io/badge/Base-Building-8FAADC?style=for-the-badge&logo=coinbase&logoColor=white&labelColor=3F4F44" alt="Base" /></a>
+</p>
+
 <h3 align="center">My Github's Stats</h3>
 
 <p align="center">
