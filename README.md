@@ -21,8 +21,6 @@
   <img src="https://img.shields.io/github/followers/alouvre?style=for-the-badge&color=D9897E&labelColor=3F4F44&label=Followers" alt="GitHub followers" />
 </p>
 
-<br>
-<h1>
 
 <h3>🌿 What I'm Building Toward</h3>
 
