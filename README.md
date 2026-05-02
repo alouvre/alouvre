@@ -93,6 +93,8 @@
   </tr>
 </table>
 
+<img src="./img/img3.jpg" alt="Alifia Mustika Sari banner" width="100%" />
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/alouvre/alouvre/output/snake.svg" alt="Snake animation" />
 </div>
