@@ -1,4 +1,4 @@
-<img src="./img/img1" alt="Alifia Mustika Sari banner" width="100%" />
+<img src="./img/img1.jpg" alt="Alifia Mustika Sari banner" width="100%" />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=38&text=Welcome%20to%20My%20GitHub%20Universe&fontSize=31&fontColor=7AA2E3&fontAlignY=70&animation=fadeIn" alt="Welcome to My GitHub Universe" />
