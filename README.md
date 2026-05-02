@@ -77,8 +77,21 @@
   <img src="https://img.shields.io/badge/Docker-386641?style=for-the-badge&logo=docker&logoColor=F6E7B7" alt="Docker" />
 </p>
 
-<br>
-<h1>
+<h3>🌲 Forest Activity</h3>
+
+<table align="center">
+  <tr>
+    <td width="49%" valign="top">
+      <img width="100%" src="https://ghstats.dev/api/card?username=zickrian&bg=0D1117&text=A8B3A9&title_color=8DBA8E&icon_color=D6A85E&hide_border=true&show_icons=true&show_ring=false&hide=grade&custom_title=Forest%20Log" alt="GitHub forest log" />
+    </td>
+    <td width="2%"></td>
+    <td width="49%" valign="top">
+      <img width="100%" src="https://ghstats.dev/api/langs?username=zickrian&layout=bar&max_langs=6&bg=0D1117&text=A8B3A9&title_color=8DBA8E&icon_color=D6A85E&hide_border=true&custom_title=Language%20Garden" alt="Language garden" />
+      <br/>
+      <img width="100%" src="https://streak-stats.demolab.com?user=zickrian&theme=dark&hide_border=true&background=0D1117&ring=8DBA8E&fire=D6A85E&currStreakLabel=8DBA8E&sideNums=D6A85E&currStreakNum=D6A85E&dates=A8B3A9&sideLabels=A8B3A9&card_height=250" alt="GitHub streak stats" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/alouvre/alouvre/output/snake.svg" alt="Snake animation" />
