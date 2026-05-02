@@ -5,9 +5,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=8DBA8E&height=1&section=header" width="100%" alt="Green divider" />
 </div>
 
-<h1 align="center">Hi there, I'm Alifia Mustika Sari</h1>
 <p align="center">
-Hi, My name is Alifia Mustika Sari. I am a Computer Science graduate from PGRI Madiun University (GPA 3.81) with a strong interest in developing solutions based on Artificial Intelligence (AI), Natural Language Processing (NLP), and Data Science.
+  I'm a Computer Science graduate while sharpening my programming skills and exploring the wider technology landscape.
+  My learning journey is focused on software development, data analysis, artificial intelligence, and machine learning, with a long-term goal of transforming raw data into actionable insights, decision-support tools, and intelligent systems that create real business impact.
 </p>
 
 <br>
