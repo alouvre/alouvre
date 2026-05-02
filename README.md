@@ -14,7 +14,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-6B8E6E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=3F4F44" alt="Portfolio" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Email-Contact-D9897E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3F4F44" alt="Email" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2E3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3F4F44" alt="LinkedIn" /></a>
-  <a href="https://base.org"><img src="https://img.shields.io/badge/Base-Building-8FAADC?style=for-the-badge&logo=coinbase&logoColor=white&labelColor=3F4F44" alt="Base" /></a>
 </p>
 
 <p align="center">
