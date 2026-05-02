@@ -82,13 +82,13 @@
 <table align="center">
   <tr>
     <td width="49%" valign="top">
-      <img width="100%" src="https://ghstats.dev/api/card?username=zickrian&bg=0D1117&text=A8B3A9&title_color=7AA2E3&icon_color=60A5FA&hide_border=true&show_icons=true&show_ring=false&hide=grade&custom_title=Activity%20Log" alt="GitHub activity log" />
+      <img width="100%" src="https://ghstats.dev/api/card?username=alouvre&bg=0D1117&text=A8B3A9&title_color=7AA2E3&icon_color=60A5FA&hide_border=true&show_icons=true&show_ring=false&hide=grade&custom_title=Activity%20Log" alt="GitHub activity log" />
     </td>
     <td width="2%"></td>
     <td width="49%" valign="top">
       <img width="100%" src="https://ghstats.dev/api/langs?username=alouvre&layout=bar&max_langs=6&bg=0D1117&text=A8B3A9&title_color=7AA2E3&icon_color=60A5FA&hide_border=true&custom_title=Languages" alt="Languages" />
       <br/>
-      <img width="100%" src="https://streak-stats.demolab.com?user=zickrian&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=7AA2E3&sideNums=60A5FA&currStreakNum=60A5FA&dates=A8B3A9&sideLabels=A8B3A9&card_height=250" alt="GitHub streak stats" />
+      <img width="100%" src="https://streak-stats.demolab.com?user=alouvre&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=7AA2E3&sideNums=60A5FA&currStreakNum=60A5FA&dates=A8B3A9&sideLabels=A8B3A9&card_height=250" alt="GitHub streak stats" />
     </td>
   </tr>
 </table>
