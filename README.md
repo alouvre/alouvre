@@ -19,12 +19,9 @@
   <a href="https://base.org"><img src="https://img.shields.io/badge/Base-Building-8FAADC?style=for-the-badge&logo=coinbase&logoColor=white&labelColor=3F4F44" alt="Base" /></a>
 </p>
 
-<h3 align="center">My Github's Stats</h3>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alouvre&theme=github_dark&show_icons=true&hide_border=true&locale=en" alt="alouvre" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alouvre&theme=github_dark&show_icons=true&hide_border=true&locale=en&layout=compact" alt="alouvre" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alouvre&theme=github_dark&hide_border=true" alt="alouvre" />
+  <img src="https://komarev.com/ghpvc/?username=alouvre&style=for-the-badge&color=6B8E6E&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/alouvre?style=for-the-badge&color=D9897E&labelColor=3F4F44&label=Followers" alt="GitHub followers" />
 </p>
 
 <br>
