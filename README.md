@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=38&text=Welcome%20to%20My%20GitHub%20Universe&fontSize=31&fontColor=8DBA8E&fontAlignY=70&animation=fadeIn" alt="Welcome to My GitHub Universe" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8DBA8E&height=1&section=header" width="100%" alt="Green divider" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=38&text=Welcome%20to%20My%20GitHub%20Universe&fontSize=31&fontColor=7AA2E3&fontAlignY=70&animation=fadeIn" alt="Welcome to My GitHub Universe" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7AA2E3&height=1&section=header" width="100%" alt="Blue divider" />
 </div>
 
 <p align="center">
@@ -11,23 +11,23 @@
 <br>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-6B8E6E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=3F4F44" alt="Portfolio" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-Contact-D9897E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3F4F44" alt="Email" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2E3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3F4F44" alt="LinkedIn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=172554" alt="Portfolio" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-Contact-60A5FA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=172554" alt="Email" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=172554" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alouvre&style=for-the-badge&color=6B8E6E&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/alouvre?style=for-the-badge&color=D9897E&labelColor=3F4F44&label=Followers" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=alouvre&style=for-the-badge&color=3B82F6&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/alouvre?style=for-the-badge&color=60A5FA&labelColor=172554&label=Followers" alt="GitHub followers" />
 </p>
 
 
-<h3>🌿 What I'm Building Toward</h3>
+<h3>🔹 What I'm Building Toward</h3>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>🌱 Direction</strong>
+      <strong>🌀 Direction</strong>
       <ul>
         <li>Intelligent applications that connect data, models, and user needs</li>
         <li>Data analysis workflows that turn raw information into dashboards, insights, and better business decisions</li>
@@ -45,48 +45,48 @@
   </tr>
 </table>
 
-<h3>🧰 Tech Garden</h3>
+<h3>🛠️ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-1B4332?style=for-the-badge&logo=python&logoColor=F6E7B7" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-2D6A4F?style=for-the-badge&logo=cplusplus&logoColor=F6E7B7" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-6B8E6E?style=for-the-badge&logo=openjdk&logoColor=0D1117" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-D6A85E?style=for-the-badge&logo=javascript&logoColor=0D1117" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-344E41?style=for-the-badge&logo=postgresql&logoColor=F6E7B7" alt="SQL" />
-  <img src="https://img.shields.io/badge/CSS3-52796F?style=for-the-badge&logo=css3&logoColor=F6E7B7" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=8DBA8E" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind-1F4D3A?style=for-the-badge&logo=tailwindcss&logoColor=F6E7B7" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-2F4F3A?style=for-the-badge&logo=nodedotjs&logoColor=F6E7B7" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-40916C?style=for-the-badge&logo=fastapi&logoColor=F6E7B7" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/MySQL-233D4D?style=for-the-badge&logo=mysql&logoColor=F6E7B7" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-31572C?style=for-the-badge&logo=postgresql&logoColor=F6E7B7" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/PyTorch-7A6C3E?style=for-the-badge&logo=pytorch&logoColor=F6E7B7" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-B08940?style=for-the-badge&logo=tensorflow&logoColor=0D1117" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-7F5539?style=for-the-badge&logo=keras&logoColor=F6E7B7" alt="Keras" />
-  <img src="https://img.shields.io/badge/Scikit--learn-5C6B3C?style=for-the-badge&logo=scikitlearn&logoColor=F6E7B7" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-283618?style=for-the-badge&logo=pandas&logoColor=F6E7B7" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-355070?style=for-the-badge&logo=numpy&logoColor=F6E7B7" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-4F772D?style=for-the-badge&logo=plotly&logoColor=F6E7B7" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Jupyter-D6A85E?style=for-the-badge&logo=jupyter&logoColor=0D1117" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-184E77?style=for-the-badge&logo=microsoftazure&logoColor=F6E7B7" alt="Microsoft Azure" />
-  <img src="https://img.shields.io/badge/Grafana-936639?style=for-the-badge&logo=grafana&logoColor=F6E7B7" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Prometheus-99582A?style=for-the-badge&logo=prometheus&logoColor=F6E7B7" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Git-588157?style=for-the-badge&logo=git&logoColor=F6E7B7" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-386641?style=for-the-badge&logo=docker&logoColor=F6E7B7" alt="Docker" />
+  <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=EFF6FF" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-1E40AF?style=for-the-badge&logo=cplusplus&logoColor=EFF6FF" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-1D4ED8?style=for-the-badge&logo=postgresql&logoColor=EFF6FF" alt="SQL" />
+  <img src="https://img.shields.io/badge/CSS3-3B82F6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=60A5FA" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-1E3A8A?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-1D4ED8?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/MySQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1E40AF?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/PyTorch-172554?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-2563EB?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-1E3A8A?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Scikit--learn-3B82F6?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-1D4ED8?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-1E40AF?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-3B82F6?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Jupyter-1E3A8A?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Grafana-1D4ED8?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Prometheus-1E40AF?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Git-3B82F6?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-1E3A8A?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-<h3>🌲 Forest Activity</h3>
+<h3>📊 Statistics</h3>
 
 <table align="center">
   <tr>
     <td width="49%" valign="top">
-      <img width="100%" src="https://ghstats.dev/api/card?username=zickrian&bg=0D1117&text=A8B3A9&title_color=8DBA8E&icon_color=D6A85E&hide_border=true&show_icons=true&show_ring=false&hide=grade&custom_title=Forest%20Log" alt="GitHub forest log" />
+      <img width="100%" src="https://ghstats.dev/api/card?username=zickrian&bg=0D1117&text=A8B3A9&title_color=7AA2E3&icon_color=60A5FA&hide_border=true&show_icons=true&show_ring=false&hide=grade&custom_title=Activity%20Log" alt="GitHub activity log" />
     </td>
     <td width="2%"></td>
     <td width="49%" valign="top">
-      <img width="100%" src="https://ghstats.dev/api/langs?username=zickrian&layout=bar&max_langs=6&bg=0D1117&text=A8B3A9&title_color=8DBA8E&icon_color=D6A85E&hide_border=true&custom_title=Language%20Garden" alt="Language garden" />
+      <img width="100%" src="https://ghstats.dev/api/langs?username=zickrian&layout=bar&max_langs=6&bg=0D1117&text=A8B3A9&title_color=7AA2E3&icon_color=60A5FA&hide_border=true&custom_title=Languages" alt="Languages" />
       <br/>
-      <img width="100%" src="https://streak-stats.demolab.com?user=zickrian&theme=dark&hide_border=true&background=0D1117&ring=8DBA8E&fire=D6A85E&currStreakLabel=8DBA8E&sideNums=D6A85E&currStreakNum=D6A85E&dates=A8B3A9&sideLabels=A8B3A9&card_height=250" alt="GitHub streak stats" />
+      <img width="100%" src="https://streak-stats.demolab.com?user=zickrian&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=7AA2E3&sideNums=60A5FA&currStreakNum=60A5FA&dates=A8B3A9&sideLabels=A8B3A9&card_height=250" alt="GitHub streak stats" />
     </td>
   </tr>
 </table>
