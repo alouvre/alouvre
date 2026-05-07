@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alouvre&style=for-the-badge&color=3B82F6&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/alouvre?style=for-the-badge&color=60A5FA&labelColor=172554&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/alouvre&style=for-the-badge&color=60A5FA&labelColor=172554&label=Followers" alt="GitHub followers" />
 </p>
 
 
