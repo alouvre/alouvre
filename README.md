@@ -13,9 +13,9 @@
 <br>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=172554" alt="Portfolio" /></a>
+  <a href="https://alifiamustika.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=172554" alt="Alifia" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Email-Contact-60A5FA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=172554" alt="Email" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=172554" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/alifiamustika/"><img src="https://img.shields.io/badge/LinkedIn-Connect-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=172554" alt="Alifia" /></a>
 </p>
 
 <p align="center">
