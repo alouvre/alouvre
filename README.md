@@ -16,6 +16,9 @@
   <img src="https://komarev.com/ghpvc/?username=alouvre&style=for-the-badge&color=3B82F6&label=Profile+Views" alt="Profile views" />
   <a href="https://alifiamustika.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Alifia-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=172554" alt="Portofolio" /></a>
   <a href="https://www.linkedin.com/in/alifiamustika/"><img src="https://img.shields.io/badge/LinkedIn-Alifia-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=172554" alt="Linkedin" /></a>
+</p>
+
+<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Email-Alifiamustika02@gmail.com-60A5FA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=172554" alt="Email" /></a>
 </p>
 
